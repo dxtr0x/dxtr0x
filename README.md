@@ -13,18 +13,15 @@ I'm a **passionate junior software engineer** with a love for coding, problem-so
   - 🌱 **Learning**: Advanced systems programming, web development, and DevOps tools
   - 👯 **Open to collaboration**: On innovative software, cybersecurity, or IoT projects
   - 💬 **Ask me about**: C/C++, Rust, Linux, or anything tech-related!
-  - 📫 **Reach me**: Via the links below
-  - ⚡ **Fun fact**: I once debugged a program while binge-watching sci-fi! 🖥️👾
+  - ⚡ **Fun fact**: I dont like web developement
 </div>
 
 
 ## 📬 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://twitch.tv/yourusername"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch"></a>
-  <a href="https://discord.com/users/yourusername"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
-  <a href="https://youtube.com/@yourusername"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
-  <a href="https://gitlab.com/yourusername"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab"></a>
+  <a href="https://linkedin.com/in/dxtr0x"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@dxtr0x"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
+  <a href="https://gitlab.com/dxtr0x"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab"></a>
 </div>
 
 ---
@@ -54,4 +51,4 @@ Here’s what I’m working with:
 
 ---
 
-🌍 **Let’s build something amazing together!** Feel free to star ⭐ my repos or drop me a message!
+🌍 **Let’s build something amazing together!**
