@@ -1,93 +1,57 @@
-## Hi there 👋
+# 👋 Hey, I'm Software Enginner! 🚀
 
-<!--
-**dxtr0x/dxtr0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **passionate junior software engineer** with a love for coding, problem-solving, and building innovative projects. I thrive on exploring new technologies, collaborating on creative solutions, and sharing my journey with the community. Dive into my repositories and let's connect! 😄
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">Hello World!!</p>
-
-###
+## 🌟 About Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo"  />
+  <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkxOGk1eXZxcHo2aW1qbXFla3lwMDRiOGZwdGdwbXJmdWx2bTBwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF" />
+  
+  - 🔭 **Currently working on**: Exciting open-source projects and personal coding experiments
+  - 🌱 **Learning**: Advanced systems programming, web development, and DevOps tools
+  - 👯 **Open to collaboration**: On innovative software, cybersecurity, or IoT projects
+  - 💬 **Ask me about**: C/C++, Rust, Linux, or anything tech-related!
+  - 📫 **Reach me**: Via the links below
+  - ⚡ **Fun fact**: I once debugged a program while binge-watching sci-fi! 🖥️👾
 </div>
 
-###
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkxOGk1eXZxcHo2aW1qbXFla3lwMDRiOGZwdGdwbXJmdWx2bTBwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="63" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="63" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="63" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="63" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="63" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mastodon" height="63" alt="mastodon logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="63" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="63" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zig" height="63" alt="zig logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="63" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="63" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=actix" height="63" alt="actix logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="63" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="63" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="63" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="63" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="63" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="63" alt="gitlab logo"  />
+## 📬 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://twitch.tv/yourusername"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch"></a>
+  <a href="https://discord.com/users/yourusername"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+  <a href="https://youtube.com/@yourusername"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
+  <a href="https://gitlab.com/yourusername"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab"></a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dxtr0x/dxtr0x/output/snake.svg" alt="Snake animation" />
-
-###
+## 🛠️ Tech Stack
+Here’s what I’m working with:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxtr0x&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dxtr0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,ts,html,lua,bash" height="50" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,cmake,git,github,gitlab,vscode,vite,actix,blender" height="50" alt="Tools" />
 </div>
 
-###
+---
+
+## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dxtr0x&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dxtr0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dxtr0x/dxtr0x/output/snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+🌍 **Let’s build something amazing together!** Feel free to star ⭐ my repos or drop me a message!
